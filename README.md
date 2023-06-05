@@ -35,7 +35,9 @@ desapercibido.**
 
 #  
 ##
-
+<details>
+<summary>En</summary>
+  
 - # 👋 Hi, I’m [@s3codecL](https://github.com/s3codecL) my real name is [Gustavo Andrade](https://github.com/s3codecL)
 - ## 👀 I’m interested in web development and Data Science.
 - ## 🌱 I’m currently studying data science engineering and taking a bootcamp <full stack Python>.
@@ -70,6 +72,8 @@ unnoticed.**
 1. [LINKEDIN](https://www.linkedin.com/in/gandradev/)  
 2. [INSTAGRAM](https://www.instagram.com/s3codecl/) 
 3. <a href="mailto:gandradev@gmail.com">GMAIL</a>
+</details>  
+
 <!--
 **s3codecL/s3codecL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
