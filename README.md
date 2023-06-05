@@ -4,7 +4,7 @@
 - ## 👯 formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@dannlebeau](https://github.com/dannlebeau) [@lalarita9](https://github.com/lalarita9) para realizar un par de proyectos.
 
 - ### 😄 Un poco sobre mí....
-**Tengo una gran motivación para seguir 
+**Tengo gran motivación para seguir 
 seguir perfeccionando mis habilidades y crecer profesionalmente. 
 profesionalmente. Tengo plena confianza en 
 mi capacidad para resolver problemas, compromiso, 
