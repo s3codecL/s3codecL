@@ -1,16 +1,15 @@
 - # 👋 Hola, soy [@s3codecL](https://github.com/s3codecL) mi nombre real es [Gustavo Andrade](https://github.com/s3codecL)
 - ## 👀 Me interesa el Desarrollo Web y la Ciencia de Datos.
-- ## 🌱 Actualmente estudio ingeniería en Ciencia de Datos y estoy cursando un bootcamp **Full Stack Python**.
+- ## 🌱 Actualmente estudio ingeniería en Ciencia de Datos y estoy cursando un bootcamp **Full Stack Python en (Talento Digital Chile)**.
 - ## 👯 formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@dannlebeau](https://github.com/dannlebeau) [@lalarita9](https://github.com/lalarita9) para realizar un par de proyectos.
 
 - ### 😄 Un poco sobre mí....
 **Tengo gran motivación para seguir 
 seguir perfeccionando mis habilidades y crecer profesionalmente. 
-profesionalmente. Tengo plena confianza en 
+Tengo plena confianza en 
 mi capacidad para resolver problemas, compromiso, 
 excelente relación y 
-proactividad que no pasarán desapercibidos. 
-desapercibido.** 
+proactividad que no pasarán desapercibidos.** 
 - ### ⚡ Actualmente estoy cursando el bootcamp (Full Stack Python) en Talento Digital Chile, 
 **y además logré completar +30 cursos y Diplomados que puedes revisar en el siguiente link**. 
 **---> [AQUÍ](https://www.linkedin.com/in/gandradev/details/certifications/)**
@@ -46,10 +45,10 @@ desapercibido.**
 - ### ✨ A little bit about me...
 **I have great motivation to continue 
 continue to hone my skills and grow professionally. 
-professionally. I have full confidence in 
+I have full confidence in 
 my ability to solve problems, commitment, 
 excellent relations and 
-proactivity that will not go unnoticed. 
+proactivity that will not go 
 unnoticed.** 
 - ### ✨ I am currently attending the bootcamp (Full Stack Python) at Talento Digital Chile., 
 **and I also managed to complete +30 courses and Diplomas that you can check in the following link** 
