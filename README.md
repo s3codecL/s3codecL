@@ -24,15 +24,16 @@ proactividad que no pasarán desapercibidos.**
 **---> [AQUÍ](https://www.linkedin.com/in/gandradev/details/certifications/)**
 
 <details>
-<summary>My top languages</summary>
+<summary>My top languages & frameworks</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python|
-|     2| SQL|
-|     3| HTML|
-|     4| CSS|
-|     5| Javascript|
+| Rank | Languages | Frameworks |
+|-----:|-----------|------------|
+|     1| Python| Django |
+|     2| SQL| Bootstrap |
+|     3| HTML| Next.js |
+|     4| CSS| Jquery |
+|     5| Javascript| React |
+|     6| Typescript|
 </details>
 
 - 📫 Cómo contactarme ....
@@ -73,15 +74,16 @@ unnoticed.**
 **---> [HERE](https://www.linkedin.com/in/gandradev/details/certifications/)**
 
 <details>
-<summary>My top languages</summary>
+<summary>My top languages & frameworks</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python|
-|     2| SQL|
-|     3| HTML|
-|     4| CSS|
-|     5| Javascript|
+| Rank | Languages | Frameworks |
+|-----:|-----------|------------|
+|     1| Python| Django |
+|     2| SQL| Bootstrap |
+|     3| HTML| Next.js |
+|     4| CSS| Jquery |
+|     5| Javascript| React |
+|     6| Typescript|
 </details>
 
 - 📫 How to reach me ...
