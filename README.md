@@ -7,7 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/TalentoDigital-Chile-red)
 
-- ### 👋 Hola, soy [@s3codecL](https://github.com/s3codecL) mi nombre real es [Gustavo Andrade](https://github.com/s3codecL)
+- ### 👋 Hola, soy [@s3codecL](https://github.com/s3codecL) mi nombre es [Gustavo Andrade](https://github.com/s3codecL)
 - #### 👀 Me interesa el Desarrollo Web y la Ciencia de Datos.
 - #### 🌱 Actualmente estudio ingeniería en Ciencia de Datos y estoy finalizando el bootcamp **Full Stack Python en (Talento Digital Chile)**.
 - #### 👯 Formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@dannlebeau](https://github.com/dannlebeau) [@lalarita9](https://github.com/lalarita9)
@@ -57,7 +57,7 @@ proactividad que no pasarán desapercibidos.**
 
 ![Static Badge](https://img.shields.io/badge/TalentoDigital-Chile-red)
 
-- ### 👋 Hi, I’m [@s3codecL](https://github.com/s3codecL) my real name is [Gustavo Andrade](https://github.com/s3codecL)
+- ### 👋 Hi, I’m [@s3codecL](https://github.com/s3codecL) my name is [Gustavo Andrade](https://github.com/s3codecL)
 - #### 👀 I’m interested in web development and Data Science.
 - #### 🌱 I’m currently studying data science engineering and ending the bootcamp <full stack Python>.
 - #### 🌱 we formed a development team together with [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@dannlebeau](https://github.com/dannlebeau) [@lalarita9](https://github.com/lalarita9)
