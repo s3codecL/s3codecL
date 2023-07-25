@@ -38,8 +38,7 @@ proactividad que no pasarán desapercibidos.**
 
 - 📫 Cómo contactarme ....
   
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gandradev/)  
-[![Static Badge](https://img.shields.io/badge/Instagram-orange)](https://www.instagram.com/s3codecl/) 
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gandradev/)   
 <a href="mailto:gandradev@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-grey)
 </a>
 
@@ -88,8 +87,7 @@ unnoticed.**
 
 - 📫 How to reach me ...
   
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gandradev/)  
-[![Static Badge](https://img.shields.io/badge/Instagram-orange)](https://www.instagram.com/s3codecl/) 
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gandradev/) 
 <a href="mailto:gandradev@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-grey)
 </a>
 
