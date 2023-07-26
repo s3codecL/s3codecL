@@ -23,6 +23,8 @@ proactividad que no pasarán desapercibidos.**
 **y además logré completar +30 cursos y Diplomados que puedes revisar en el siguiente link**. 
 **---> [AQUÍ](https://www.linkedin.com/in/gandradev/details/certifications/)**
 
+**---> [PORTAFOLIO](https://s3codecl.github.io/portafolio/)**
+
 <details>
 <summary>My top languages & frameworks</summary>
 
@@ -71,6 +73,8 @@ unnoticed.**
 - #### ✨ I am currently attending the bootcamp (Full Stack Python) at Talento Digital Chile., 
 **and I also managed to complete +30 courses and Diplomas that you can check in the following link** 
 **---> [HERE](https://www.linkedin.com/in/gandradev/details/certifications/)**
+
+**---> [PORTFOLIO](https://s3codecl.github.io/portafolio/)**
 
 <details>
 <summary>My top languages & frameworks</summary>
