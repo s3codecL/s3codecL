@@ -58,7 +58,7 @@ proactividad que no pasarán desapercibidos.**
 <a href="mailto:gandradev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)
 </a>
 
-### 📊 GitHub Stats:
+### 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S3codecl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
