@@ -7,7 +7,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-@s3codecL-success?&logo=github)](https://github.com/s3codecL-green)
+[![GitHub](https://img.shields.io/badge/GitHub-@s3codecL-success?&logo=github)](https://github.com/s3codecL)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
@@ -77,7 +77,7 @@ proactividad que no pasarán desapercibidos.**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-@s3codecL-success?&logo=github)](https://github.com/s3codecL-green)
+[![GitHub](https://img.shields.io/badge/GitHub-@s3codecL-success?&logo=github)](https://github.com/s3codecL)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
