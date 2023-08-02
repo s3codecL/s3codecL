@@ -58,8 +58,13 @@ proactividad que no pasarán desapercibidos.**
 <a href="mailto:gandradev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)
 </a>
 
-##  
-###
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S3codecl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=S3codecl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <details>
 <summary>En</summary>
 
@@ -122,6 +127,12 @@ unnoticed.**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/)
 <a href="mailto:gandradev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)
 </a>
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S3codecl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=S3codecl&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **s3codecL/s3codecL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
