@@ -1,9 +1,23 @@
-![Static Badge](https://img.shields.io/badge/GitHub-s3codecL-green)
-![Static Badge](https://img.shields.io/badge/Python%20-%20Django-%23006400)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23FFD700)
-![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-![Static Badge](https://img.shields.io/badge/React-%2300bcd4)
-![Static Badge](https://img.shields.io/badge/Next.js-grey)
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-@s3codecL-success?&logo=github)](https://github.com/s3codecL-green)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?&logo=bootstrap&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/TalentoDigital-Chile-red)
 
@@ -21,9 +35,9 @@ excelente relación y
 proactividad que no pasarán desapercibidos.** 
 - #### ⚡ Actualmente estoy cursando el bootcamp (Full Stack Python) en Talento Digital Chile, 
 **y además logré completar +30 cursos y Diplomados que puedes revisar en el siguiente link**. 
-**---> [AQUÍ](https://www.linkedin.com/in/gandradev/details/certifications/)**
 
-**---> [PORTAFOLIO](https://s3codecl.github.io/portafolio/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
+**[![Portafolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)](https://s3codecl.github.io/portafolio/)**
 
 <details>
 <summary>My top languages & frameworks</summary>
@@ -39,9 +53,9 @@ proactividad que no pasarán desapercibidos.**
 </details>
 
 - 📫 Cómo contactarme ....
-  
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gandradev/)   
-<a href="mailto:gandradev@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-grey)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/)
+<a href="mailto:gandradev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)
 </a>
 
 ##  
@@ -49,12 +63,26 @@ proactividad que no pasarán desapercibidos.**
 <details>
 <summary>En</summary>
 
-![Static Badge](https://img.shields.io/badge/GitHub-s3codecL-green)
-![Static Badge](https://img.shields.io/badge/Python%20-%20Django-%23006400)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23FFD700)
-![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-![Static Badge](https://img.shields.io/badge/React-%2300bcd4)
-![Static Badge](https://img.shields.io/badge/Next.js-grey)
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-@s3codecL-success?&logo=github)](https://github.com/s3codecL-green)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?&logo=bootstrap&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/TalentoDigital-Chile-red)
 
@@ -72,9 +100,9 @@ proactivity that will not go
 unnoticed.** 
 - #### ✨ I am currently attending the bootcamp (Full Stack Python) at Talento Digital Chile., 
 **and I also managed to complete +30 courses and Diplomas that you can check in the following link** 
-**---> [HERE](https://www.linkedin.com/in/gandradev/details/certifications/)**
 
-**---> [PORTFOLIO](https://s3codecl.github.io/portafolio/)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
+**[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)](https://s3codecl.github.io/portafolio/)**
 
 <details>
 <summary>My top languages & frameworks</summary>
@@ -91,8 +119,8 @@ unnoticed.**
 
 - 📫 How to reach me ...
   
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/gandradev/) 
-<a href="mailto:gandradev@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-grey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/)
+<a href="mailto:gandradev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)
 </a>
 
 <!--
