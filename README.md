@@ -21,7 +21,7 @@
 
 - ### 👋 Hola, soy [@s3codecL](https://github.com/s3codecL) mi nombre es [Gustavo Andrade](https://github.com/s3codecL)
 - #### 👀 Me interesa el Desarrollo Web y la Ciencia de Datos.
-- #### 🌱 Actualmente estudio ingeniería en Ciencia de Datos**.
+- #### 🌱 Actualmente estudio ingeniería en Ciencia de Datos.
 - #### 👯 Formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@dannlebeau](https://github.com/dannlebeau) [@lalarita9](https://github.com/lalarita9)
 
 - #### 😄 Un poco sobre mí....
@@ -31,7 +31,7 @@ Tengo plena confianza en
 mi capacidad para resolver problemas, compromiso, 
 excelente relación y 
 proactividad que no pasarán desapercibidos.** 
-- #### ⚡ Actualmente estoy cursando el Certificado Análisis de Datos profesional de Google 2023 y finalice el bootcamp **Full Stack Python en (Talento Digital Chile) 
+- #### ⚡ **Actualmente estoy cursando el Certificado Análisis de Datos profesional de Google 2023 y finalice el bootcamp Full Stack Python en (Talento Digital Chile)** 
 **y además logré completar +30 cursos y Diplomados que puedes revisar en el siguiente link**. 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
@@ -99,7 +99,7 @@ my ability to solve problems, commitment,
 excellent relations and 
 proactivity that will not go 
 unnoticed.** 
-- #### ✨ I am currently taking the Google 2023 Professional Data Analytics Certificate and I finished the bootcamp **Full Stack Python at (Talento Digital Chile), 
+- #### ✨ **I am currently taking the Google 2023 Professional Data Analytics Certificate and I finished the bootcamp Full Stack Python at (Talento Digital Chile),** 
 **and I also managed to complete +30 courses and Diplomas that you can check in the following link** 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
