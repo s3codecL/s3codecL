@@ -90,7 +90,7 @@ proactividad que no pasarán desapercibidos.**
 - ### 👋 Hi, I’m [@s3codecL](https://github.com/s3codecL) my name is [Gustavo Andrade](https://github.com/s3codecL)
 - #### 👀 I’m interested in web development and Data Science.
 - #### 🌱 I’m currently studying data science engineering.
-- #### 🌱 we formed a development team together with [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@dannlebeau](https://github.com/dannlebeau) [@lalarita9](https://github.com/lalarita9)
+- #### 🌱 we formed a development team together with [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@lalarita9](https://github.com/lalarita9)
 - #### ✨ A little bit about me...
 **I have great motivation to continue 
 continue to hone my skills and grow professionally. 
