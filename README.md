@@ -22,7 +22,7 @@
 - ### 👋 Hola, soy [@s3codecL](https://github.com/s3codecL) mi nombre es [Gustavo Andrade](https://github.com/s3codecL)
 - #### 👀 Me interesa el Desarrollo Web y la Ciencia de Datos.
 - #### 🌱 Actualmente estudio ingeniería en Ciencia de Datos.
-- #### 👯 Formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@dannlebeau](https://github.com/dannlebeau) [@lalarita9](https://github.com/lalarita9)
+- #### 👯 Formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@lalarita9](https://github.com/lalarita9)
 
 - #### 😄 Un poco sobre mí....
 **Tengo gran motivación para seguir 
