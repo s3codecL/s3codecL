@@ -22,7 +22,7 @@
 - ### 👋 Hola, soy [@s3codecL](https://github.com/s3codecL) mi nombre es [Gustavo Andrade](https://github.com/s3codecL)
 - #### 👀 Me interesa el Desarrollo Web y la Ciencia de Datos.
 - #### 🌱 Actualmente estudio ingeniería en Ciencia de Datos.
-- #### 👯 Formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@lalarita9](https://github.com/lalarita9)
+- #### 👯 Formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama)
 
 - #### 😄 Un poco sobre mí....
 **Tengo gran motivación para seguir 
@@ -90,7 +90,7 @@ proactividad que no pasarán desapercibidos.**
 - ### 👋 Hi, I’m [@s3codecL](https://github.com/s3codecL) my name is [Gustavo Andrade](https://github.com/s3codecL)
 - #### 👀 I’m interested in web development and Data Science.
 - #### 🌱 I’m currently studying data science engineering.
-- #### 🌱 we formed a development team together with [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama) [@lalarita9](https://github.com/lalarita9)
+- #### 🌱 we formed a development team together with [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama)
 - #### ✨ A little bit about me...
 **I have great motivation to continue 
 continue to hone my skills and grow professionally. 
