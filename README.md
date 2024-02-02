@@ -25,12 +25,8 @@
 - #### 👯 Formamos un equipo de desarrollo junto con [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama)
 
 - #### 😄 Un poco sobre mí....
-**Tengo gran motivación para seguir 
-seguir perfeccionando mis habilidades y crecer profesionalmente. 
-Tengo plena confianza en 
-mi capacidad para resolver problemas, compromiso, 
-excelente relación y 
-proactividad que no pasarán desapercibidos.** 
+**Estudiante de tercer año de Ing en Data Science y entusiasta Desarrollador con una sólida motivación para perfeccionar mis habilidades y avanzar profesionalmente.
+Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y proactividad, enfrento con confianza nuevos desafíos, impulsado por un espíritu innovador.** 
 - #### ⚡ **Actualmente estoy cursando el Certificado Análisis de Datos profesional de Google 2023 y finalice el bootcamp Full Stack Python en (Talento Digital Chile)** 
 **y además logré completar +30 cursos y Diplomados que puedes revisar en el siguiente link**. 
 
@@ -92,13 +88,8 @@ proactividad que no pasarán desapercibidos.**
 - #### 🌱 I’m currently studying data science engineering.
 - #### 🌱 we formed a development team together with [@FelipeGonzalezValderrama](https://github.com/FelipeGonzalezValderrama)
 - #### ✨ A little bit about me...
-**I have great motivation to continue 
-continue to hone my skills and grow professionally. 
-I have full confidence in 
-my ability to solve problems, commitment, 
-excellent relations and 
-proactivity that will not go 
-unnoticed.** 
+**Third year student of Data Science Engineering and enthusiastic developer with a strong motivation to improve my skills and advance professionally.
+I stand out for my resolutive capacity, commitment, interpersonal skills and proactivity, I face new challenges with confidence, driven by an innovative spirit.** 
 - #### ✨ **I am currently taking the Google 2023 Professional Data Analytics Certificate and I finished the bootcamp Full Stack Python at (Talento Digital Chile),** 
 **and I also managed to complete +30 courses and Diplomas that you can check in the following link** 
 
