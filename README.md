@@ -4,6 +4,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white)
 
@@ -14,8 +16,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?&logo=bootstrap&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&logo=vite&logoColor=white)
+
+
 
 ![Static Badge](https://img.shields.io/badge/TalentoDigital-Chile-red)
 
@@ -68,6 +74,8 @@ Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y p
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?&logo=microsoft%20sql%20server&logoColor=white)
 
@@ -78,8 +86,10 @@ Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y p
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?&logo=bootstrap&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&logo=vite&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/TalentoDigital-Chile-red)
 
