@@ -33,8 +33,8 @@
 - #### 😄 Un poco sobre mí....
 **Estudiante de tercer año de Ing en Data Science y entusiasta Desarrollador con una sólida motivación para perfeccionar mis habilidades y avanzar profesionalmente.
 Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y proactividad, enfrento con confianza nuevos desafíos, impulsado por un espíritu innovador.** 
-- #### ⚡ **Actualmente estoy cursando el Certificado Análisis de Datos profesional de Google 2023 y finalice el bootcamp Full Stack Python en (Talento Digital Chile)** 
-**y además logré completar +30 cursos y Diplomados que puedes revisar en el siguiente link**. 
+- #### ⚡ **Actualmente estoy cursando la Especialidad DevOps Kibernum It Academy y finalicé el Bootcamp Front End G6 con REACT de ONE Alura Latam.** 
+**Cursos y Diplomados finalizados que puedes revisar en el siguiente link**. 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
 **[![Portafolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)](https://s3codecl.github.io/portafolio/)**
@@ -100,8 +100,8 @@ Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y p
 - #### ✨ A little bit about me...
 **Third year student of Data Science Engineering and enthusiastic developer with a strong motivation to improve my skills and advance professionally.
 I stand out for my resolutive capacity, commitment, interpersonal skills and proactivity, I face new challenges with confidence, driven by an innovative spirit.** 
-- #### ✨ **I am currently taking the Google 2023 Professional Data Analytics Certificate and I finished the bootcamp Full Stack Python at (Talento Digital Chile),** 
-**and I also managed to complete +30 courses and Diplomas that you can check in the following link** 
+- #### ✨ **I am currently taking the DevOps Specialty Kibernum It Academy and I finished the Bootcamp Front End G6 with REACT from ONE Alura Latam** 
+**Completed courses and diplomas that you can check in the following link** 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
 **[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)](https://s3codecl.github.io/portafolio/)**
