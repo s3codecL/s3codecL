@@ -33,10 +33,12 @@
 - #### 😄 Un poco sobre mí....
 **Estudiante de tercer año de Ing en Data Science y entusiasta Desarrollador con una sólida motivación para perfeccionar mis habilidades y avanzar profesionalmente.
 Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y proactividad, enfrento con confianza nuevos desafíos, impulsado por un espíritu innovador.** 
-- #### ⚡ **Actualmente estoy cursando la Especialidad DevOps Kibernum It Academy y finalicé el Bootcamp Front End G6 con REACT de ONE Alura Latam.** 
+- #### ⚡ **Actualmente estoy cursando la Especialidad DevOps Kibernum It Academy y finalicé el Bootcamp Front End G6 con REACT de ONE Alura Latam y Desarrollo de aplicaciones Full Stack con Python de Talento Digital Chile** 
 **Cursos y Diplomados finalizados que puedes revisar en el siguiente link**. 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
+
+- #### ✨ **Puedes revisar algunos proyectos :point_down: **.
 **[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)**
 
 <details>
@@ -100,10 +102,12 @@ Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y p
 - #### ✨ A little bit about me...
 **Third year student of Data Science Engineering and enthusiastic developer with a strong motivation to improve my skills and advance professionally.
 I stand out for my resolutive capacity, commitment, interpersonal skills and proactivity, I face new challenges with confidence, driven by an innovative spirit.** 
-- #### ✨ **I am currently taking the DevOps Specialty Kibernum It Academy and I finished the Bootcamp Front End G6 with REACT from ONE Alura Latam** 
+- #### ✨ **I am currently taking the DevOps Specialty Kibernum It Academy and I finished the Bootcamp Front End G6 with REACT from ONE Alura Latam and Full Stack Application Development with Python from Talento Digital Chile.** 
 **Completed courses and diplomas that you can check in the following link** 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
+
+- #### ✨ **You can check some projects :point_down: **.
 **[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)**
 
 <details>
