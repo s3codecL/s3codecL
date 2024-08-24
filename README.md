@@ -38,7 +38,7 @@ Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y p
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
 
-- #### ✨ **Puedes revisar algunos proyectos :point_down: **.
+- #### ✨ **Puedes revisar mi CV :point_down: **.
 **[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)**
 
 <details>
@@ -107,7 +107,7 @@ I stand out for my resolutive capacity, commitment, interpersonal skills and pro
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
 
-- #### ✨ **You can check some projects :point_down: **.
+- #### ✨ **You can check my CV :point_down: **.
 **[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)**
 
 <details>
