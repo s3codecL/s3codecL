@@ -37,7 +37,7 @@ Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y p
 **Cursos y Diplomados finalizados que puedes revisar en el siguiente link**. 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
-**[![Portafolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)](https://challenge-one-portafolio-two.vercel.app/)**
+**[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)**
 
 <details>
 <summary>My top languages & frameworks</summary>
@@ -104,7 +104,7 @@ I stand out for my resolutive capacity, commitment, interpersonal skills and pro
 **Completed courses and diplomas that you can check in the following link** 
 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/details/certifications/)**
-**[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)](https://s3codecl.github.io/portafolio/)**
+**[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)**
 
 <details>
 <summary>My top languages & frameworks</summary>
