@@ -31,7 +31,7 @@
 - #### 👯 Formamos un equipo de desarrollo junto con [@secontrerasa](https://github.com/secontrerasa)
 
 - #### 😄 Un poco sobre mí....
-**Estudiante de tercer año de Ing en Data Science y entusiasta Desarrollador con una sólida motivación para perfeccionar mis habilidades y avanzar profesionalmente.
+**Estudiante de último año de Ing en Data Science y entusiasta Desarrollador con una sólida motivación para perfeccionar mis habilidades y avanzar profesionalmente.
 Destaco por mi capacidad resolutiva, compromiso, habilidades interpersonales y proactividad, enfrento con confianza nuevos desafíos, impulsado por un espíritu innovador.** 
 - #### ⚡ **Actualmente estoy cursando la Especialidad DevOps Kibernum It Academy y finalicé el Bootcamp Front End G6 con REACT de ONE Alura Latam y Desarrollo de aplicaciones Full Stack con Python de Talento Digital Chile** 
 **Cursos y Diplomados finalizados que puedes revisar en el siguiente link**. 
