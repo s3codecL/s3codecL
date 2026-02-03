@@ -199,11 +199,6 @@
 
 ### **📊 Stats Overview**
 
-<a href="https://github.com/s3codecL">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=s3codecL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3codecL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
-</a>
-
 ### **🔥 Contribution Streak**
 
 <a href="https://github.com/s3codecL">
@@ -216,11 +211,14 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=s3codecL&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph"/>
 </a>
 
-### **🏆 GitHub Trophies**
+### 🎯 **Top Technologies**
 
-<a href="https://github.com/s3codecL">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=s3codecL&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</a>
+![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript)
+![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 </div>
 
