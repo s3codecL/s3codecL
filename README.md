@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=300&section=header&text=Gustavo%20Andrade%20Valenzuela&fontSize=65&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=Semi%20Senior%20Developer%20%7C%20Security%20Expert%20%7C%20Data%20Scientist%20%7C%20AI%20Specialist&descSize=20&descAlignY=51" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=300&section=header&text=Gustavo%20Andrade%20&fontSize=65&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=Semi%20Senior%20Developer%20%7C%20Security%20Expert%20%7C%20Data%20Scientist%20%7C%20AI%20Specialist&descSize=20&descAlignY=51" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=180&lines=%F0%9F%9A%80+3%2B+Years+Professional+Experience+%7C+Multi-Industry;%F0%9F%8E%93+70%2B+Certifications+%7C+Google+%7C+Fortinet+%7C+Microsoft+%7C+Oracle;%F0%9F%94%90+Cybersecurity+%7C+DevOps+%7C+Full+Stack+%7C+Data+Science+%7C+AI;%F0%9F%8F%86+Top+Multi-Certified+Developer;%F0%9F%87%A8%F0%9F%87%B1+Remote+Work+Expert+%7C+Available+for+Opportunities" alt="Typing SVG" />
 
