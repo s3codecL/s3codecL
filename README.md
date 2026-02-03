@@ -427,8 +427,6 @@ Focus:
 <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 </a>
 <br>
-**LinkedIn**
-<br>
 <a href="https://www.linkedin.com/in/gandradev/">
 <img src="https://img.shields.io/badge/Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -441,8 +439,6 @@ Focus:
 <a href="mailto:gandradev@gmail.com">
 <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
 </a>
-<br>
-**Email**
 <br>
 <a href="mailto:gandradev@gmail.com">
 <img src="https://img.shields.io/badge/Send_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -457,8 +453,6 @@ Focus:
 <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
 </a>
 <br>
-**Portfolio**
-<br>
 <a href="https://challenge-one-portafolio-two.vercel.app/">
 <img src="https://img.shields.io/badge/Visit_Site-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
@@ -471,8 +465,6 @@ Focus:
 <a href="https://github.com/s3codecL">
 <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
 </a>
-<br>
-**GitHub**
 <br>
 <a href="https://github.com/s3codecL">
 <img src="https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white"/>
