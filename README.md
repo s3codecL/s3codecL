@@ -197,26 +197,30 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### **📊 Stats Overview**
 
-<img src="https://github-readme-stats.vercel.app/api?username=s3codecL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+<a href="https://github.com/s3codecL">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=s3codecL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3codecL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+</a>
 
-</td>
-<td width="50%">
+### **🔥 Contribution Streak**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3codecL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+<a href="https://github.com/s3codecL">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=s3codecL&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak"/>
+</a>
 
-</td>
-</tr>
-</table>
+### **📈 Contribution Activity**
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=s3codecL&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak"/>
+<a href="https://github.com/s3codecL">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=s3codecL&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph"/>
+</a>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s3codecL&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph"/>
+### **🏆 GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=s3codecL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="GitHub Trophies"/>
+<a href="https://github.com/s3codecL">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=s3codecL&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
