@@ -1,43 +1,93 @@
-# README
-
-## Quick Navigation
-- [Professional Experience](#professional-experience)
-- [Featured Project Aegis HUB](#featured-project-aegis-hub)
-- [Technical Stack](#technical-stack)
-- [GitHub Analytics](#github-analytics)
-- [Professional Certifications](#professional-certifications)
+# Table of Contents
+- [Introduction](#introduction)
 - [Team & Collaboration](#team--collaboration)
 - [Let's Connect](#lets-connect)
+- [GitHub Analytics](#github-analytics)
+- [Certifications](#certifications)
+- [Professional Experience](#professional-experience)
+- [Technical Stack](#technical-stack)
+- [Aegis HUB](#aegis-hub)
 
-## Professional Experience
-Here you would outline your professional experience in detail...
+# Introduction
+Welcome to the s3codecL repository, where we work on various projects related to DevOps.
 
-## Featured Project Aegis HUB
-Details about the Featured Project Aegis HUB...
+# Team & Collaboration
+<div style="overflow: hidden;">
+    <span style="float: left; margin-right: 10px;">👤 @s3codecL - Role: Semi senior DevOps</span>
+    <span id="typing-animation" style="font-family: monospace;"></span>
+</div>
+<script>
+const typingAnimation = document.getElementById('typing-animation');
+const roles = ['Cloud Engineer', 'Automation Specialist', 'Infrastructure Architect'];
+let i = 0;
 
-## Technical Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+function typeRole() {
+    typingAnimation.innerHTML = ''; // Clear previous text
+    let role = roles[i];
+    let j = 0;
 
-## GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s3codecL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&custom_title=Gustavo%20Andrade's%20GitHub%20Stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3codecL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=Most%20Used%20Languages)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=s3codecL&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s3codecL&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF)
-![Trophies](https://github-profile-trophy.vercel.app/?username=s3codecL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10)
+    function typingEffect() {
+        if (j < role.length) {
+            typingAnimation.innerHTML += role[j];
+            j++;
+            setTimeout(typingEffect, 100);
+        } else {
+            i = (i + 1) % roles.length;
+            setTimeout(() => {
+                roleBackspaceEffect(role);
+            }, 1000);
+        }
+    }
 
-## Professional Certifications (70+)
-List your certifications here...
+    typingEffect();
+}
 
-## Team & Collaboration
-### Improved Visuals
-- Avatars with borders
-- Typing animation within the team section
-- YAML code blocks for configuration examples
+function roleBackspaceEffect(role) {
+    let j = role.length;
 
-## Let's Connect
-- Enhanced design with typing animation
-- Large icons (80px)
-- Quick action buttons for easy access
+    function backspaceEffect() {
+        if (j > 0) {
+            typingAnimation.innerHTML = role.substring(0, j - 1);
+            j--;
+            setTimeout(backspaceEffect, 100);
+        } else {
+            typeRole();
+        }
+    }
 
-## All other sections intact
-Ensure all previously existing sections remain in the README.
+    backspaceEffect();
+}
+
+typeRole();
+</script>
+
+# Let's Connect
+Connect with us on our platforms:
+<div style="display: flex; justify-content: space-around;">
+    <a href="#" style="font-size: 24px;">💼 LinkedIn</a>
+    <a href="#" style="font-size: 24px;">🐦 Twitter</a>
+    <a href="#" style="font-size: 24px;">🌐 Website</a>
+</div>
+
+# GitHub Analytics
+| Repository | Link |
+|------------|------|
+| s3codecL   | [View Repo](https://github.com/s3codecL) |
+
+# Certifications
+We have a collection of over 70+ certifications:
+- AWS Certified Solutions Architect
+- Microsoft Certified: Azure Developer Associate
+- ...
+
+# Professional Experience
+Detailed professional experience of the team members.
+
+# Technical Stack
+| Technology | Badge |
+|------------|-------|
+| AWS        | ![AWS Badge](https://img.shields.io/badge/amazon-aws-ff9900) |
+| Azure      | ![Azure Badge](https://img.shields.io/badge/microsoft-azure-0078d4) |
+
+# Aegis HUB
+Featured project highlighting our work with Aegis HUB.
