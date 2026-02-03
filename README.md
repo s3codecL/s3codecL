@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Gustavo%20Andrade&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Security%20Expert&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=300&section=header&text=Gustavo%20Andrade&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Security%20Expert&descSize=18&descAlignY=55" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=180&lines=%F0%9F%9A%80+3%2B+Years+Professional+Experience+%7C+Multi-Industry;%F0%9F%8E%93+70%2B+Certifications+%7C+Google+%7C+Fortinet+%7C+Microsoft+%7C+Oracle;%F0%9F%94%90+Cybersecurity+%7C+DevOps+%7C+Full+Stack+%7C+Data+Science+%7C+AI;%F0%9F%8F%86+Top+Multi-Certified+Developer;%F0%9F%87%A8%F0%9F%87%B1+Remote+Work+Expert+%7C+Available+for+Opportunities" alt="Typing SVG" />
+
+<br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/)
@@ -8,6 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s3codecL&color=00D9FF&style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=flat-square)
+
 
 </div>
 
@@ -83,14 +88,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics & Performance Metrics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s3codecL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s3codecL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+### **🔥 Contribution Streak**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=s3codecL&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s3codecL&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak Stats" />
+
+### **📈 Contribution Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s3codecL&custom_title=Contribution%20Activity%20Over%20Time&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph" />
 
 </div>
 
@@ -171,7 +179,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=120&section=footer" />
 
-**💙 Thanks for visiting!** | **Made with ❤️ by Gustavo Andrade** | **🇨🇱 Chile**
+**Thanks for visiting!** | **Made with ❤️ by Gustavo Andrade** | **🇨🇱 Chile**
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
 ![Based in Chile](https://img.shields.io/badge/Based%20in-Chile%20🇨🇱-red?style=flat-square)
