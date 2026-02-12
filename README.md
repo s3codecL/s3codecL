@@ -168,7 +168,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandradev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-ruby-25.vercel.app/)
 [![Calendar](https://img.shields.io/badge/Schedule-Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](mailto:gandradev@gmail.com?subject=Meeting%20Request)
 
 </div>
