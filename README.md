@@ -6,7 +6,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://challenge-one-portafolio-two.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-phi-ruby-25.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gandradev/)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandradev@gmail.com)
 
