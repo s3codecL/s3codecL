@@ -35,11 +35,23 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-v2.0.0--rc.1-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Community-46%20Reactions%20%7C%2017%20Comments-orange?style=flat-square&logo=linkedin" alt="Social Proof">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/LinkedIn-31%20Reactions-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </p>
 
 **Tech Stack:** `Vite` | `JavaScript (ES6)` | `HTML5` | `CSS3` | `Bootstrap 5` | `LocalStorage` | `GitHub Actions`
+
+---
+
+*   🔹 **Gestión de Incidencias**: Clasificación automática bajo frameworks **NIST 800-61**, **ISO 27035** y **MITRE ATT&CK**.
+*   🔹 **78 Herramientas OSINT**: Motores de búsqueda, análisis de malware, inteligencia de amenazas y mapas en tiempo real integrados.
+*   🔹 **Interfaz Premium**: Diseño responsivo con **Glassmorphism**, persistencia de temas (Dark/Light) y soporte bilingüe completo.
+*   🔹 **Seguridad Avanzada**: Autenticación **OAuth 2.0** (Google/GitHub), protección **reCAPTCHA v2** y sistema de roles.
+*   🔹 **Despliegue Cloud**: Plataforma productiva y escalable disponible en [**aegisboard.dev**](https://aegisboard.dev).
+
+[**Ver Repositorio**](https://github.com/s3codecL/aegisboard) | [**Explorar la Web App**](https://aegisboard.dev)
+
+---
 
 ---
 
