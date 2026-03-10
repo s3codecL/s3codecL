@@ -53,21 +53,6 @@
 
 ---
 
----
-
-*   🔹 **Gestión de Incidencias**: Clasificación automática bajo frameworks **NIST 800-61**, **ISO 27035** y **MITRE ATT&CK**.
-*   🔹 **78 Herramientas OSINT**: Motores de búsqueda, análisis de malware, inteligencia de amenazas y mapas en tiempo real integrados.
-*   🔹 **Interfaz Premium**: Diseño responsivo con **Glassmorphism**, persistencia de temas (Dark/Light) y soporte bilingüe completo.
-*   🔹 **Seguridad Avanzada**: Autenticación **OAuth 2.0** (Google/GitHub), protección **reCAPTCHA v2** y sistema de roles.
-*   🔹 **Despliegue Cloud**: Plataforma productiva y escalable disponible en **[aegisboard.dev](https://aegisboard.dev)**.
-
-[**Ver Repositorio**](https://github.com/s3codecL/aegisboard) | [**Explorar la Web App**](https://aegisboard.dev)
-
----
-
-
----
-
 ## 🛠️ Tech Stack
 
 ### **💻 Programming Languages**
